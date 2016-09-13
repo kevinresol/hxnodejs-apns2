@@ -1,0 +1,14 @@
+{
+  "name": "hxapns2",
+  "license": "MIT",
+  "tags": [
+    "apns2"
+  ],
+  "classPath": "src",
+  "contributors": [
+    "terencelee"
+  ],
+  "releasenote": "initial release",
+  "version": "0.0.1",
+  "dependencies": {}
+}
