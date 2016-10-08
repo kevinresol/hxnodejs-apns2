@@ -1,7 +1,0 @@
--main Main
--js output.js
--lib hxnodejs
--cp src
--cp secret
--cp tests
-

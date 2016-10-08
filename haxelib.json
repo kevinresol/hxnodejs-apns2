@@ -1,12 +1,13 @@
 {
-  "name": "hxapns2",
+  "name": "hxnodejs-apns2",
   "license": "MIT",
   "tags": [
     "apns2"
   ],
   "classPath": "src",
   "contributors": [
-    "terencelee"
+    "terencelee",
+    "kevinresol"
   ],
   "releasenote": "initial release",
   "version": "0.0.1",
